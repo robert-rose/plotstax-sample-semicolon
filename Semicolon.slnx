@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Semicolon.AppHost/Semicolon.AppHost.csproj" />
+  <Project Path="Semicolon.Generator/Semicolon.Generator.csproj" />
+  <Project Path="Semicolon.Initializer/Semicolon.Initializer.csproj" />
+  <Project Path="Semicolon.Main/Semicolon.Main.csproj" />
+  <Project Path="Semicolon.ServiceDefaults/Semicolon.ServiceDefaults.csproj" />
+</Solution>

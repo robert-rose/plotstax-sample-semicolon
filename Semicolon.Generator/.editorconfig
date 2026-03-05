@@ -1,0 +1,6 @@
+# IDE1006: Naming rule violation: Missing prefix: 'I'
+# Reason: The interfaces are syntactic short-hand for builder names and settings.  In this special
+# use case, interface definitions do not correspond to real interfaces used by the solution.
+
+[*.{cs}]
+dotnet_diagnostic.IDE1006.severity = none
